@@ -1,0 +1,41 @@
+.cHeader>span{
+font-size: large;
+margin:10px;
+
+}
+
+.cHeader{
+    
+margin-left: 0px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items:flex-end;
+height: 40px;
+width: 50%;
+margin-top: 10px;
+
+
+}
+
+.mHeader{
+  
+    margin-left: 0px;display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:flex-end;
+    height: 30px;
+    width: 80%; 
+    margin-top: 10px;
+    border-bottom: 2px solid grey;
+}
+
+.mHeader>span{
+    font-size: large;
+margin-top:10px;
+margin-bottom:5px ;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+
+}
